@@ -5,7 +5,7 @@
 // console.log(a);
  // let 
 //  let a = 1
-//  //const
+//  const
 //  const pi = 3.1416
 //  const meses = 12
 //  var nombre = "juan"
@@ -36,3 +36,4 @@ console.log("El area del rectangulo es: " + AreaR);
 console.log("")
 console.log("---------------------------------------------------")
 console.log("")
+// hgvjhfjhvjhb 
